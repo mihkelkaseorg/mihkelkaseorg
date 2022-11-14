@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mihkel
+- 👀 I’m interested in movies, sports, space and programming
+- 🌱 I’m currently learning Python
+- 📫 You can reach me at mihkelkaseorg2005@gmail.com
